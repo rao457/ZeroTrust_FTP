@@ -1,0 +1,3 @@
+USERNAME = "user"
+PASSWORD = "P@ssword123"
+PORT = 2121
